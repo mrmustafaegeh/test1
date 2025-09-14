@@ -1,0 +1,12 @@
+PROJECT TASKS
+
+
+having option to filter out images based on their status, eg removed/saved
+
+
+project should be able to run on server Mahdi
+
+
+3 buttons under each card, save, remove, rename
+
+rename image, needs a small button when clicked small box appears for input, also with x and tick button to apply or cancel
